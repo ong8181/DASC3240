@@ -10,4 +10,4 @@ If Jupyter notebook is already installed in your PC, the most straightforward wa
 
 ## Open Jupyter notebook in Google Colab
 ### Perceptron
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/OCES3301_guest/blob/main/01_and_gate.ipynb) 01_and_gate.ipynb 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ong8181/DASC3240/blob/main/L04_ReviewPython.ipynb) L04_ReviewPython.ipynb 
