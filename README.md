@@ -3,6 +3,7 @@ This repository includes scripts for DASC3240 offered in Spring semester 2024 at
 
 ## License
 L04 and T01-T06 were modified from ["Python for ecologists" CC-BY 4.0](https://thejacksonlaboratory.github.io/python-ecology-lesson/license/).
+
 As for the other part, see LICENSE.
 
 ## Open Jupyter notebook in your local PC
