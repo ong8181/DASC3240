@@ -22,4 +22,4 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 
 
 ## References
-- T01-T06 were modified from https://thejacksonlaboratory.github.io/python-ecology-lesson/ ("Python for ecologists" CC-BY 4.0). For detailed information about the license, please see https://thejacksonlaboratory.github.io/python-ecology-lesson/license/
+- L04 and T01-T06 were modified from https://thejacksonlaboratory.github.io/python-ecology-lesson/ ("Python for ecologists" CC-BY 4.0). For detailed information about the license, please see https://thejacksonlaboratory.github.io/python-ecology-lesson/license/
