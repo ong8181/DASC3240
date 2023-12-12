@@ -2,7 +2,8 @@
 This repository includes scripts for DASC3240 offered in Spring semester 2024 at HKUST.
 
 ## License
-L04 and T01-T06 were modified from ["Python for ecologists" CC-BY 4.0](https://thejacksonlaboratory.github.io/python-ecology-lesson/license/).
+L04 and T01-T06 were modified from ["Python for ecologists" CC-BY 4.0](https://thejacksonlaboratory.github.io/python-ecology-lesson/license/).  
+Rdatasets package v1.0.0 (https://vincentarelbundock.github.io/Rdatasets/) (GPL-3).  
 
 As for the other part, see LICENSE.
 
@@ -30,3 +31,4 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 - The Python Graph Gallery (https://github.com/holtzy/The-Python-Graph-Gallery) ([0BSD license](https://github.com/holtzy/The-Python-Graph-Gallery/blob/master/LICENSE))
 - Matplotlib official start guide (https://matplotlib.org/stable/users/explain/quick_start.html)
 - Seaborn official guide (https://seaborn.pydata.org/tutorial/distributions.html)
+- Rdatasets v1.0.0 (https://vincentarelbundock.github.io/Rdatasets/)
