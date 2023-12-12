@@ -27,5 +27,6 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 ## References
 - Data Carpentry (2016) [Python for ecologists](https://thejacksonlaboratory.github.io/python-ecology-lesson/) (L04 and T01-T06) ([CC-BY 4.0](https://thejacksonlaboratory.github.io/python-ecology-lesson/license/))
 - David Landup (2021) "Data Visualization in Python - Matplotlib and Pandas" by StackAbuse.com
+- The Python Graph Gallery (https://github.com/holtzy/The-Python-Graph-Gallery) ([0BSD license](https://github.com/holtzy/The-Python-Graph-Gallery/blob/master/LICENSE))
 - Matplotlib official start guide (https://matplotlib.org/stable/users/explain/quick_start.html)
 - Seaborn official guide (https://seaborn.pydata.org/tutorial/distributions.html)
