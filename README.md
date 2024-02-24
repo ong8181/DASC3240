@@ -16,7 +16,7 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L04_ReviewPython.ipynb) L04_ReviewPython.ipynb 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L05_OneVariable.ipynb) L05_OneVariable.ipynb 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L06_OneVariable-Assignments.ipynb) L06_OneVariable-Assignments.ipynb
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L07_BoxJitterViolin.ipynb.ipynb) L07_BoxJitterViolin.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L07_BoxJitterViolin.ipynb) L07_BoxJitterViolin.ipynb
 
 
 ### Materials for tutorials
