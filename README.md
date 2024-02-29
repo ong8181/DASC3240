@@ -1,5 +1,5 @@
 # Scripts for hands-on in DASC3240
-This repository includes scripts for DASC3240 offered in Spring semester 2024 at HKUST.
+This repository includes scripts for DASC3240 offered in Spring semester in 2024 at HKUST.
 
 ## License
 L04 and T01-T06 were modified from ["Python for ecologists" CC-BY 4.0](https://thejacksonlaboratory.github.io/python-ecology-lesson/license/).  
@@ -8,7 +8,7 @@ Rdatasets package v1.0.0 (https://vincentarelbundock.github.io/Rdatasets/) (GPL-
 As for the other part, see LICENSE.
 
 ## Open Jupyter notebook in your local PC
-If Jupyter Notebook is already installed in your PC, the most straightforward way to run the scripts is probably downloading all the files in this repository and open them using jupyter notebook. Alternatively, you can open them in Google Colab, but reading demo data is a bit tricky.
+If Jupyter Notebook is already installed in your PC, the most straightforward way to run the scripts is probably downloading all the files in this repository and opening them using jupyter notebook. Alternatively, you can open them in Google Colab, but reading demo data is a bit tricky.
 
 
 ## Open Jupyter Notebook in Google Colab
@@ -18,6 +18,7 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L06_OneVariable-Assignments.ipynb) L06_OneVariable-Assignments.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L07_BoxJitterViolin.ipynb) L07_BoxJitterViolin.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L08_BoxJitterViolin-Assignments.ipynb) L08_BoxJitterViolin-Assignments.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L09_ScatterPlot.ipynb) L09_ScatterPlot.ipynb.ipynb
 
 
 ### Materials for tutorials
