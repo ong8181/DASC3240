@@ -1,4 +1,4 @@
-# Scripts for hands-on in DASC3240
+# Scripts and lecture PDF files for DASC3240
 This repository includes scripts for DASC3240 offered in Spring semester in 2024 at HKUST.
 
 ## License
