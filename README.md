@@ -20,7 +20,7 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L08_BoxJitterViolin-Assignments.ipynb) L08_BoxJitterViolin-Assignments.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L09_ScatterPlot.ipynb) L09_ScatterPlot.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L10_ScatterPlot-Assignments.ipynb) L10_ScatterPlot-Assignments.ipynb
-
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L11_MorePlot.ipynb) L11_MorePlot.ipynb
 
 
 ### Materials for tutorials
