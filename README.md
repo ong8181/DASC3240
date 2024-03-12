@@ -23,6 +23,7 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L11_MorePlot.ipynb) L11_MorePlot.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L12_MorePlot-Assignments.ipynb
 ) L12_MorePlot-Assignments.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L13_PCAandOthers.ipynb) L13_PCAandOthers.ipynb
 
 
 ### Materials for tutorials
