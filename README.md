@@ -25,7 +25,8 @@ If Jupyter Notebook is already installed in your PC, the most straightforward wa
 ) L12_MorePlot-Assignments.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L13_PCAandOthers.ipynb) L13_PCAandOthers.ipynb
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L14_PCAandOthers-Assignments.ipynb) L14_PCAandOthers-Assignments.ipynb
-
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L15-L16_RBasics-I.ipynb) L15-L16_RBasics-I.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/L15-L16_RBasics-II.ipynb) L15-L16_RBasics-II.ipynb
 
 ### Materials for tutorials
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/T01_PythonIntroduction.ipynb) T01_PythonIntroduction.ipynb
