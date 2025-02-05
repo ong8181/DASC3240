@@ -9,3 +9,7 @@ This foloder contains lecture slides. They should be exactly the same with the l
 ## DASC3240_code
 
 This folder contains R code files.
+
+## DASC3240_items
+
+Supporting items for DASC 3240.
