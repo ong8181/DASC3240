@@ -11,7 +11,7 @@ This foloder contains lecture slides. They should be exactly the same with the l
 This folder contains R code files.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/DASC3240_code/L05_RBasics.ipynb) L05_RBasics.ipynb (Downlaod and open with **RStudio** is recommended)
 
-<a href="h[ttps://colab.research.google.com/github/your-repo/your-notebook.ipynb](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/DASC3240_code/L05_RBasics.ipynb)" target="_blank">Open in Colab</a>
+<a href="https://colab.research.google.com/github/ong8181/DASC3240/blob/main/DASC3240_code/L05_RBasics.ipynb" target="_blank">Open in Colab</a>
 
 ## DASC3240_items
 
