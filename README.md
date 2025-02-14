@@ -9,9 +9,9 @@ This foloder contains lecture slides. They should be exactly the same with the l
 ## DASC3240_code
 
 This folder contains R code files.
-- [Downlaod L05_RBasics.Rmd](https://raw.githubusercontent.com/ong8181/DASC3240/refs/heads/main/DASC3240_code/L05_RBasics.Rmd). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/DASC3240_code/L05_RBasics.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ong8181/DASC3240/blob/main/DASC3240_code/L05_RBasics.ipynb) Or [Downlaod L05_RBasics.Rmd](https://raw.githubusercontent.com/ong8181/DASC3240/refs/heads/main/DASC3240_code/L05_RBasics.Rmd)
 
-
+<a href="https://raw.githubusercontent.com/ong8181/DASC3240/refs/heads/main/DASC3240_code/L05_RBasics.Rmd" download>This</a>
 
 ## DASC3240_items
 
